@@ -1,0 +1,8 @@
+('touchtracer\\',
+ None,
+ [],
+ 'DATA',
+ [('polinom.py', 'touchtracer\\polinom.py', 'DATA'),
+  ('__pycache__\\polinom.cpython-37.pyc',
+   'touchtracer\\__pycache__\\polinom.cpython-37.pyc',
+   'DATA')])
